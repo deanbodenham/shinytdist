@@ -15,6 +15,7 @@ There are four different versions of the app:
  3. `t_bottom` rearranges the outputs to put the slider and equations at the bottom. Also modifies the legend slightly
     to make the text larger and include the degrees of freedom in the legend.
  4. `t_bottom2` is the same as 3., but allows the degrees of freedom to be real-valued (or, at least an integer divided by 10).
+ 4. `t_bottom2_all_in_one` is the same as 4., but now everything is contained in the single file `driver.R`.
 
 
 ## Running a Shiny app
